@@ -1,0 +1,6 @@
+name: newsynagogueproject
+recipe: pantheon
+config:
+  framework: wordpress
+  site: newsynagogueproject
+  id: 638d6eb5-9408-4156-8322-f47c8025cfdf

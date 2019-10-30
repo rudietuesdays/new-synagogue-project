@@ -1,0 +1,148 @@
+/*
+Theme Name: Maisha
+* Styles for Gutenberg blocks
+*/
+
+
+#editor {
+	color: #333;
+}
+
+body.gutenberg-editor-page #editor .edit-post-visual-editor .editor-post-title__block,
+body.gutenberg-editor-page #editor .editor-default-block-appender,
+body.gutenberg-editor-page #editor .editor-block-list__block {
+	max-width: 830px;
+}
+
+/* Width of "wide" blocks */
+body.gutenberg-editor-page #editor .editor-block-list__block[data-align="wide"] {
+	max-width: 1080px;
+}
+
+/* Width of "full-wide" blocks */
+body.gutenberg-editor-page #editor .editor-block-list__block[data-align="full"] {
+	max-width: none;
+}
+
+.edit-post-visual-editor,
+.edit-post-visual-editor p,
+.editor-post-title textarea.editor-post-title__input {
+	font-family: 'Helvetica Neue', arial, sans-serif;
+}
+
+.edit-post-visual-editor h1,
+.edit-post-visual-editor h2,
+.edit-post-visual-editor h3,
+.edit-post-visual-editor h4,
+.edit-post-visual-editor h5,
+.edit-post-visual-editor h6 {
+	font-family: 'Raleway', arial, sans-serif;
+}
+
+.edit-post-visual-editor h5,
+.edit-post-visual-editor h6 {
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+}
+
+.edit-post-visual-editor p.wp-block-subhead {
+	color: inherit;
+	opacity: 0.75;
+}
+
+.gutenberg .entry-content{
+	font-size: 16px;
+	line-height: 1.8;
+	margin: 0 auto;
+	display: block;
+}
+
+.editor-block-list__block a {
+	color: #666;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.edit-post-visual-editor .wp-block-preformatted pre {
+	background-color: transparent;
+	background-color: rgba(0, 0, 0, 0.01);
+	border: 1px solid #f5f4f4;
+	border: 1px solid rgba(51, 51, 51, 0.1);
+	line-height: 1.2;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 0.8em;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+body.gutenberg {
+	overflow-x: hidden;
+}
+
+.editor-block-list__block .wp-block-quote {
+	padding: 11px 22px;
+	border-left: 5px solid #f7931d;
+	background: #f4f5f5;
+	color: #666;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-style: italic;
+	line-height: 1.6667;
+	margin-bottom: 1.6667em;
+	padding-left: 0.7778em;
+}
+
+.editor-block-list__block .wp-block-quote p {
+	font-family: 'Raleway', arial, sans-serif;
+	color: #666;
+}
+
+.editor-block-list__block .wp-block-quote cite {
+	text-transform: uppercase;
+}
+
+.editor-block-list__block .block-library-list .editor-rich-text__tinymce, 
+.editor-block-list__block .block-library-list .editor-rich-text__tinymce ol, 
+.editor-block-list__block .block-library-list .editor-rich-text__tinymce ul {
+	padding-left: 0;
+	margin-left: 0;
+}
+
+.editor-block-list__block .block-library-list .editor-rich-text__tinymce li > ul,
+.editor-block-list__block .block-library-list .editor-rich-text__tinymce li > ol {
+	margin-left: 1.3333em;
+}
+
+.editor-block-list__block .wp-block-verse pre {
+	border: 1px solid #f5f4f4;
+	border: 1px solid rgba(51, 51, 51, 0.1);
+	white-space: nowrap;
+	font-family: inherit;
+	font-size: inherit;
+	padding: 1em;
+	background: none;
+}
+
+.gutenberg .editor-block-list__block .wp-block-latest-posts,
+.gutenberg .editor-block-list__block .wp-block-categories ul,
+.gutenberg .editor-block-list__block ul.wp-block-archives {
+	padding-left: 0;
+}
+
+.editor-block-list__block .wp-block-pullquote {
+	background: #f4f5f5;
+	padding: 3em 20px;
+}
+
+.editor-block-list__block .wp-block-pullquote>.block-library-pullquote__content .editor-rich-text__tinymce[data-is-empty=true]:before, 
+.editor-block-list__block .wp-block-pullquote>.editor-rich-text p {
+	font-family: "Noto Serif",serif;
+	font-style: italic;
+}
+
+.editor-block-list__block .wp-block-pullquote>.editor-rich-text p cite {
+	font-style: normal;
+}

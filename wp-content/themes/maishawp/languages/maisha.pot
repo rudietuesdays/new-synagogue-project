@@ -1,0 +1,1229 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Maisha\n"
+"POT-Creation-Date: 2019-04-22 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_nx;esc_html_x\n"
+"X-Poedit-SearchPath-0: ."
+
+#. translators: %s: Name of current post
+#: content-grid.php:50 content-quote.php:73 content-quote.php:95 
+#: content-grid-about.php:32 content-post-list.php:43 
+#: content-grid-projects.php:35 content-post-grid.php:41 
+#: content-post-grid.php:49 content.php:50 content-grid-extra.php:31 
+#: content-icon-list.php:29 content-grid-causes.php:35 content-single.php:41 
+#: content-link.php:43 content-grid-child-extra.php:50 
+#: content-grid-projects-one.php:33 content-grid-staff.php:33 
+#: content-front-secondblock.php:21 inc/template-tags.php:236
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-grid.php:56 content-quote.php:24 content-quote.php:42 
+#: content-quote.php:78 content-quote.php:100 content-grid-about.php:38 
+#: content-page.php:15 content-post-list.php:48 
+#: content-front-firstblock.php:22 content-grid-projects.php:41 
+#: content-front-thirdblock.php:21 content-front-thirdblock.php:56 
+#: content-post-grid.php:56 content.php:57 content-front-page-one.php:14 
+#: content-grid-extra.php:37 content-grid-give.php:37 content-grid-page.php:22 
+#: content-grid-page.php:42 content-front-page.php:23 content-icon-list.php:35 
+#: content-grid-causes.php:41 content-single.php:46 content-link.php:50 
+#: content-about-page.php:21 content-about-page.php:41 
+#: content-grid-child-extra.php:56 content-grid-projects-one.php:39 
+#: content-about-secondblock.php:22 content-grid-staff.php:39 
+#: content-front-secondblock.php:27 content-about-firstblock.php:16 
+#: content-full-page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: content-grid.php:60 content-quote.php:28 content-quote.php:46 
+#: content-quote.php:82 content-quote.php:104 content-grid-about.php:42 
+#: content-page.php:19 content-post-list.php:52 archive.php:54 archive.php:86 
+#: archive.php:129 archive.php:176 archive.php:210 archive.php:235 
+#: archive.php:273 content-front-firstblock.php:26 
+#: content-grid-projects.php:45 content-front-thirdblock.php:25 
+#: content-front-thirdblock.php:60 content-post-grid.php:60 search.php:46 
+#: content.php:61 content-front-page-one.php:18 content-grid-extra.php:41 
+#: content-grid-page.php:26 content-grid-page.php:46 content-front-page.php:27 
+#: content-icon-list.php:39 content-grid-causes.php:45 content-single.php:50 
+#: content-link.php:54 content-about-page.php:25 content-about-page.php:45 
+#: content-grid-child-extra.php:60 content-grid-projects-one.php:43 
+#: content-about-secondblock.php:26 archive-give_forms.php:55 
+#: content-grid-staff.php:43 content-front-secondblock.php:31 
+#: content-about-firstblock.php:20 content-full-page.php:19 index.php:55 
+#: index.php:94 index.php:137 index.php:185 index.php:221 index.php:253 
+#: index.php:298
+msgid "Page"
+msgstr ""
+
+#: content-grid.php:64 content-quote.php:56 content-quote.php:114 
+#: content-grid-about.php:46 content-page.php:23 content-post-list.php:27 
+#: content-front-firstblock.php:30 content-grid-projects.php:49 
+#: content-front-thirdblock.php:29 content-front-thirdblock.php:64 
+#: content-search.php:31 content-post-grid.php:69 content.php:36 
+#: content-front-page-one.php:22 content-grid-extra.php:45 
+#: content-grid-give.php:41 content-grid-page.php:30 content-grid-page.php:50 
+#: content-front-page.php:20 content-icon-list.php:43 
+#: content-grid-causes.php:49 content-single.php:33 content-link.php:29 
+#: page.php:22 page.php:31 content-about-page.php:29 content-about-page.php:49 
+#: content-grid-child-extra.php:64 content-grid-projects-one.php:47 
+#: content-about-secondblock.php:30 content-grid-staff.php:47 
+#: content-front-secondblock.php:35 content-about-firstblock.php:24 
+#: content-full-page.php:23 inc/widgets.php:53 inc/widgets.php:132 
+#: inc/widgets.php:211 inc/widgets.php:290 page-templates/basic-page.php:22 
+#: page-templates/default-one-page.php:19 
+#: page-templates/page-left-sidebar.php:22 
+#: page-templates/page-left-sidebar.php:31
+msgid "Edit"
+msgstr ""
+
+#: archive.php:52 archive.php:84 archive.php:127 archive.php:174 
+#: archive.php:208 archive.php:233 archive.php:271 search.php:44 
+#: archive-give_forms.php:53 index.php:53 index.php:92 index.php:135 
+#: index.php:183 index.php:219 index.php:251 index.php:296
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:53 archive.php:85 archive.php:128 archive.php:175 
+#: archive.php:209 archive.php:234 archive.php:272 search.php:45 
+#: archive-give_forms.php:54 index.php:54 index.php:93 index.php:136 
+#: index.php:184 index.php:220 index.php:252 index.php:297
+msgid "Next page"
+msgstr ""
+
+#. Name of the template
+msgid "Forum"
+msgstr ""
+
+#: header.php:23 header.php:61 header.php:98 header-custom.php:23 
+#: header-custom.php:61 header-custom.php:98
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:39 header.php:76 header.php:114 header-custom.php:39 
+#: header-custom.php:76 header-custom.php:114 functions.php:92
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:50 header.php:86 header.php:125 header-custom.php:50 
+#: header-custom.php:86 header-custom.php:125
+msgid "Search"
+msgstr ""
+
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: related_posts.php:24
+msgid "You Might Also Like"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:40 single.php:72 single.php:105 give/single-give-form.php:23
+msgid "Next"
+msgstr ""
+
+#: single.php:41 single.php:73 single.php:106 give/single-give-form.php:24
+msgid "Next post:"
+msgstr ""
+
+#: single.php:43 single.php:75 single.php:108 give/single-give-form.php:26
+msgid "Previous"
+msgstr ""
+
+#: single.php:44 single.php:76 single.php:109 give/single-give-form.php:27
+msgid "Previous post:"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: functions.php:93
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:140
+msgid "Orange"
+msgstr ""
+
+#: functions.php:184
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:186 functions.php:213 functions.php:222 functions.php:231
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:193
+msgid "Front Page Recent Posts Block"
+msgstr ""
+
+#: functions.php:195
+msgid ""
+"Use this widget area to display Maisha Front Page: 4 Column Recent Posts "
+"widget"
+msgstr ""
+
+#: functions.php:202
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:204
+msgid "Use this widget area to display widgets in the footer"
+msgstr ""
+
+#: functions.php:211
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: functions.php:220
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: functions.php:229
+msgid "Default Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: functions.php:254
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Playfair Display, translate this to 'off'. Do not translate into your own language.
+#: functions.php:260
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:310
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:311
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:518
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:524
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:530 admin/admin.php:191
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:536 admin/admin.php:99
+msgid "Give"
+msgstr ""
+
+#: functions.php:542 admin/admin.php:153
+msgid "bbPress"
+msgstr ""
+
+#: functions.php:548 admin/admin.php:135
+msgid "BuddyPress"
+msgstr ""
+
+#: functions.php:554 admin/admin.php:230
+msgid "The Events Calendar"
+msgstr ""
+
+#: functions.php:560 admin/admin.php:248 admin/admin.php:259
+msgid "Widget Visibility"
+msgstr ""
+
+#: functions.php:566
+msgid "Elementor"
+msgstr ""
+
+#: functions.php:572
+msgid "Soliloquy Slider"
+msgstr ""
+
+#: functions.php:578 admin/admin.php:209 admin/admin.php:220
+msgid "WPForms Lite"
+msgstr ""
+
+#: functions.php:604
+msgid "Demo Import"
+msgstr ""
+
+#: functions.php:624 inc/customizer.php:150
+msgid "Front Page"
+msgstr ""
+
+#: functions.php:625
+msgid "Blog"
+msgstr ""
+
+#: functions.php:634
+msgid "Before you begin, make sure all the recommended plugins are activated."
+msgstr ""
+
+#: author-bio.php:11
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: footer.php:35
+msgid "&copy;"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:90 inc/template-tags.php:98
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:93
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr ""
+
+#: inc/customizer.php:26 admin/admin.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Configure your theme settings"
+msgstr ""
+
+#: inc/customizer.php:34 inc/customizer.php:44
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Standard Header"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Alternative Header"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Mobile Menu Options"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Default Menu"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Search Box"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Hide Search Box"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Search Position on Desktop - Margin Top"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Logo Width on Mobile"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Type in the logo width. Example: 169"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Social Menu Position on Desktop"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Social Menu Position on Desktop - Margin Top"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Add Parallax effect to the Front Page Background Images"
+msgstr ""
+
+#: inc/customizer.php:175 inc/customizer.php:286
+msgid "First Content Block"
+msgstr ""
+
+#: inc/customizer.php:187 inc/customizer.php:298
+msgid "Choose number of columns for the First Content Block"
+msgstr ""
+
+#: inc/customizer.php:192 inc/customizer.php:303 inc/customizer.php:384 
+#: inc/customizer.php:453 inc/customizer.php:521 inc/customizer.php:589
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:193 inc/customizer.php:304 inc/customizer.php:385 
+#: inc/customizer.php:454 inc/customizer.php:522 inc/customizer.php:590
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:194 inc/customizer.php:305 inc/customizer.php:386 
+#: inc/customizer.php:455 inc/customizer.php:523 inc/customizer.php:591
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Enable Child Page Featured Image Link"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Enable Child Page Title Link"
+msgstr ""
+
+#: inc/customizer.php:230 inc/customizer.php:341
+msgid "Second Content Block"
+msgstr ""
+
+#: inc/customizer.php:242 inc/customizer.php:661
+msgid "Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Third Content Block"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "About Page"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Activate Featured Image Link"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Activate Title Link"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "Projects Page"
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "Projects Page Settings"
+msgstr ""
+
+#: inc/customizer.php:368 inc/customizer.php:437 inc/customizer.php:505 
+#: inc/customizer.php:573
+msgid "Top Content Block"
+msgstr ""
+
+#: inc/customizer.php:369 inc/customizer.php:438 inc/customizer.php:506 
+#: inc/customizer.php:574
+msgid "Without Top Content Block"
+msgstr ""
+
+#: inc/customizer.php:379 inc/customizer.php:448 inc/customizer.php:516 
+#: inc/customizer.php:584
+msgid "Choose number of columns for the child pages"
+msgstr ""
+
+#: inc/customizer.php:397 inc/customizer.php:465 inc/customizer.php:533 
+#: inc/customizer.php:601
+msgid "Deactivate Featured Image Link"
+msgstr ""
+
+#: inc/customizer.php:410 inc/customizer.php:478 inc/customizer.php:546 
+#: inc/customizer.php:614
+msgid "Deactivate Title Link"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Causes Page"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Causes Page Settings"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Stories Page"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Stories Page Settings"
+msgstr ""
+
+#. Name of the template
+#: inc/customizer.php:556
+msgid "Staff Page"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Staff Page Settings"
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "Inner Pages Options"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Pages with Title and Tagline"
+msgstr ""
+
+#: inc/customizer.php:635 inc/customizer.php:648
+msgid ""
+"Here you can change the height of the page title block. This gives you the "
+"option to show more or less of the background image. You simply need to add "
+"a number (eg. 50)."
+msgstr ""
+
+#: inc/customizer.php:647
+msgid "Pages with Title only"
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Add Parallax effect to the Top Image"
+msgstr ""
+
+#: inc/customizer.php:698
+msgid "Give Donations Page Options"
+msgstr ""
+
+#: inc/customizer.php:706
+msgid "Number of forms on Give donations page"
+msgstr ""
+
+#: inc/customizer.php:707
+msgid "Enter number of forms you want to show."
+msgstr ""
+
+#: inc/customizer.php:717
+msgid "Blog Page Options"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:733 inc/customizer.php:786 inc/customizer.php:817
+msgid "Full Post Layout"
+msgstr ""
+
+#: inc/customizer.php:734 inc/customizer.php:787 inc/customizer.php:818
+msgid "Right Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:735 inc/customizer.php:788 inc/customizer.php:819
+msgid "Left Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:736 inc/customizer.php:820
+msgid "Grid Layout + Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:737 inc/customizer.php:821
+msgid "Grid Layout + Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:738 inc/customizer.php:822
+msgid "Full Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:739 inc/customizer.php:823
+msgid "List Layout"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Post Display"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid "Full Lenght"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "Hide Post Meta"
+msgstr ""
+
+#: inc/customizer.php:780
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:798
+msgid "Hide Related Post on Single Post"
+msgstr ""
+
+#: inc/customizer.php:811
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Hide Featured Image on Blog/Archive Page"
+msgstr ""
+
+#: inc/customizer.php:845
+msgid "Hide Featured Image on Single Post Page"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Hide sidebar on main and single product page"
+msgstr ""
+
+#: inc/customizer.php:867
+msgid "Check this box if you want to hide sidebar on main product page"
+msgstr ""
+
+#: inc/customizer.php:878
+msgid "Check this box if you want to hide sidebar on single product page"
+msgstr ""
+
+#: inc/customizer.php:889
+msgid "Copyright Settings"
+msgstr ""
+
+#: inc/customizer.php:900
+msgid "Disable \"scroll to top\" button "
+msgstr ""
+
+#: inc/customizer.php:907
+msgid "Maisha Theme by Anariel Design. All rights reserved"
+msgstr ""
+
+#: inc/customizer.php:911
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Copyright Link"
+msgstr ""
+
+#: inc/customizer.php:929
+msgid "Default (Homepage)"
+msgstr ""
+
+#: inc/customizer.php:930
+msgid "Custom URL"
+msgstr ""
+
+#: inc/customizer.php:949
+msgid "Hide copyright text"
+msgstr ""
+
+#: inc/customizer.php:960 inc/customizer.php:971
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:961
+msgid "Add your custom CSS which will overwrite the theme CSS"
+msgstr ""
+
+#: inc/customizer.php:1000
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/customizer.php:1004
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:1013
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer.php:1024
+msgid "Submenu Background Color"
+msgstr ""
+
+#: inc/customizer.php:1035
+msgid "Menu Item Text Color"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1057
+msgid "Submenu Item Text Color"
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Current Menu Item Color"
+msgstr ""
+
+#: inc/customizer.php:1075
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:1084
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:1095
+msgid "All Elements with Accent Color"
+msgstr ""
+
+#: inc/customizer.php:1106
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1117
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:1128
+msgid "Dark Background Elements"
+msgstr ""
+
+#: inc/customizer.php:1139
+msgid "Dark Background Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:1150
+msgid "Light Background Elements"
+msgstr ""
+
+#: inc/customizer.php:1161
+msgid "Content Link Color"
+msgstr ""
+
+#: inc/customizer.php:1168
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:1176
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:1187
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:1198
+msgid "Copyright Top Border Color"
+msgstr ""
+
+#: inc/customizer.php:1215 admin/admin.php:51
+msgid "Visit Documentation"
+msgstr ""
+
+#: inc/customizer.php:1220 inc/customizer.php:1417 admin/admin.php:74
+msgid "Video Presentation"
+msgstr ""
+
+#: inc/customizer.php:1225 admin/admin.php:342
+msgid "More Themes by Anariel Design"
+msgstr ""
+
+#: inc/customizer.php:1234 admin/admin.php:7
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer.php:1411
+msgid "Theme Related Links:"
+msgstr ""
+
+#: inc/customizer.php:1413
+msgid "Theme Info Page"
+msgstr ""
+
+#: inc/customizer.php:1415 admin/admin.php:44
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "3 Column Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Maisha Front Page: 3 Column Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:78 inc/widgets.php:157 inc/widgets.php:236 
+#: inc/widgets.php:315 inc/widgets.php:366 inc/widgets.php:439
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:80 inc/widgets.php:159 inc/widgets.php:238 
+#: inc/widgets.php:317
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:82 inc/widgets.php:161 inc/widgets.php:240 
+#: inc/widgets.php:319
+msgid "Category slug (optional, separate multiple categories by comma):"
+msgstr ""
+
+#: inc/widgets.php:94
+msgid "4 Column Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:95
+msgid "Maisha Front Page: 4 Column Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:173
+msgid "5 Column Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:174
+msgid "Maisha Front Page: 5 Column Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:252
+msgid "6 Column Recents Posts Widget with Featured Images."
+msgstr ""
+
+#: inc/widgets.php:253
+msgid "Maisha Front Page: 6 Column Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:331
+msgid "One Image Banner"
+msgstr ""
+
+#: inc/widgets.php:332
+msgid "Maisha Sidebar: One Image Banner"
+msgstr ""
+
+#: inc/widgets.php:368
+msgid "Image URL:"
+msgstr ""
+
+#: inc/widgets.php:370
+msgid "Image ALT:"
+msgstr ""
+
+#: inc/widgets.php:372
+msgid "Image LINK:"
+msgstr ""
+
+#: inc/widgets.php:384
+msgid "Two Image Banner"
+msgstr ""
+
+#: inc/widgets.php:385
+msgid "Maisha Sidebar: Two Image Banner"
+msgstr ""
+
+#: inc/widgets.php:441
+msgid "Image One URL:"
+msgstr ""
+
+#: inc/widgets.php:443
+msgid "Image One ALT:"
+msgstr ""
+
+#: inc/widgets.php:445
+msgid "Image One LINK:"
+msgstr ""
+
+#: inc/widgets.php:447
+msgid "Image Two URL:"
+msgstr ""
+
+#: inc/widgets.php:449
+msgid "Image Two ALT:"
+msgstr ""
+
+#: inc/widgets.php:451
+msgid "Image Two LINK:"
+msgstr ""
+
+#: admin/admin.php:7
+msgid "Welcome to Maisha"
+msgstr ""
+
+#: admin/admin.php:17
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: admin/admin.php:22
+msgid "Find more about Maisha"
+msgstr ""
+
+#: admin/admin.php:34 admin/admin.php:347
+msgid "Theme Screenshot"
+msgstr ""
+
+#: admin/admin.php:39
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: admin/admin.php:47
+msgid ""
+"Please check the documentation to get better overview of how the theme is "
+"structured."
+msgstr ""
+
+#: admin/admin.php:60
+msgid ""
+"Click \"Customize\" to open the Customizer. Maisha has implemented "
+"Customizer and added some useful options to help you style theme background, "
+"color elements, upload image logo, to choose different blog layouts and a "
+"lot more."
+msgstr ""
+
+#: admin/admin.php:64
+msgid "Customize"
+msgstr ""
+
+#: admin/admin.php:70
+msgid "Maisha Video Presentation"
+msgstr ""
+
+#: admin/admin.php:80 admin/admin.php:87
+msgid "Theme Update Logs"
+msgstr ""
+
+#: admin/admin.php:83
+msgid "View the full change log for our themes."
+msgstr ""
+
+#: admin/admin.php:94
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/admin.php:96
+msgid ""
+"Plugins listed are not mandatory for theme to work! Install only the ones "
+"you need for your website!"
+msgstr ""
+
+#: admin/admin.php:100
+msgid ""
+"The most robust, flexible, and intuitive way to accept donations on "
+"WordPress."
+msgstr ""
+
+#: admin/admin.php:104 admin/admin.php:122 admin/admin.php:140 
+#: admin/admin.php:158 admin/admin.php:177 admin/admin.php:196 
+#: admin/admin.php:214 admin/admin.php:235 admin/admin.php:253 
+#: admin/admin.php:272 admin/admin.php:291 admin/admin.php:309 
+#: admin/admin.php:326
+msgid "Already activated"
+msgstr ""
+
+#: admin/admin.php:110
+msgid "Install Give"
+msgstr ""
+
+#: admin/admin.php:117
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/admin.php:118
+msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
+msgstr ""
+
+#: admin/admin.php:128
+msgid "Install WooCommerce"
+msgstr ""
+
+#: admin/admin.php:136
+msgid ""
+"BuddyPress helps you build any type of community website using WordPress, "
+"with member profiles, activity streams, user groups, messaging, and more."
+msgstr ""
+
+#: admin/admin.php:146
+msgid "Install BuddyPress"
+msgstr ""
+
+#: admin/admin.php:154
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr ""
+
+#: admin/admin.php:164
+msgid "Install bbPress"
+msgstr ""
+
+#: admin/admin.php:172
+msgid "PeepSo"
+msgstr ""
+
+#: admin/admin.php:173
+msgid "The Next Generation Social Networking"
+msgstr ""
+
+#: admin/admin.php:183
+msgid "Install PeepSo"
+msgstr ""
+
+#: admin/admin.php:192
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr ""
+
+#: admin/admin.php:202
+msgid "Install Contact Form 7"
+msgstr ""
+
+#: admin/admin.php:210
+msgid "Contact Form by WPForms. Drag & Drop Form Builder for WordPress"
+msgstr ""
+
+#: admin/admin.php:231
+msgid ""
+"The Events Calendar is a carefully crafted, extensible plugin that lets you "
+"easily share your events. Beautiful. Solid. Awesome."
+msgstr ""
+
+#: admin/admin.php:241
+msgid "Install The Events Calendar"
+msgstr ""
+
+#: admin/admin.php:249
+msgid "Control which pages your widgets appear on WordPress"
+msgstr ""
+
+#: admin/admin.php:267
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: admin/admin.php:268
+msgid ""
+"A drag and drop, responsive page builder that simplifies building your "
+"website."
+msgstr ""
+
+#: admin/admin.php:278
+msgid "Install Page Builder by SiteOrigin"
+msgstr ""
+
+#: admin/admin.php:286 admin/admin.php:297
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: admin/admin.php:287
+msgid "A collection of all widgets, neatly bundled into a single plugin."
+msgstr ""
+
+#: admin/admin.php:304 admin/admin.php:315
+msgid "Smart Slider 3"
+msgstr ""
+
+#: admin/admin.php:305
+msgid "The perfect all-in-one responsive slider solution for WordPress."
+msgstr ""
+
+#: admin/admin.php:322
+msgid "Custom Google Fonts Plugin"
+msgstr ""
+
+#: admin/admin.php:332
+msgid ""
+"Plugin can be found inside the plugins folder within the main folder you "
+"downloaded"
+msgstr ""
+
+#: admin/admin.php:345
+msgid ""
+"Build Your Dream WordPress Site with Premium Niche Themes for Bloggers & "
+"Charities"
+msgstr ""
+
+#: admin/admin.php:350
+msgid "More Themes"
+msgstr ""
+
+#: admin/admin.php:359
+#, php-format
+msgid "%1s is proudly brought to you by %2s. %3s: %4s."
+msgstr ""
+
+#: admin/admin.php:359
+msgid "Theme Demo"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Basic Page"
+msgstr ""
+
+#. Name of the template
+msgid "Full Background Image Page"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page with Slider"
+msgstr ""
+
+#. Name of the template
+msgid "Default Page without Featured Image"
+msgstr ""
+
+#. Name of the template
+msgid "Extra Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page with Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Page Builder"
+msgstr ""
+
+#. Name of the template
+msgid "Events Page"
+msgstr ""
+
+#. Name of the template
+msgid "Grid Page"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page with Video"
+msgstr ""
+
+#. Name of the theme
+msgid "Maisha"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Maisha is a beautiful charity WordPress theme inspired by \"Virunga\" "
+"documentary. It is modern, responsive and mobile friendly theme. So, no "
+"worries there, Google will love it. Theme offers whole variety of cool "
+"features like different blog layouts, different header options, extensive "
+"color options and more. It is all very easily customizable directly from the "
+"WordPress Customizer. Maisha also comes with number of page templates and "
+"includes a couple specially styled to support hugely popular plugins like "
+"bbPress, BuddyPress, WooCommerce and The Events Calendar. Above all it is "
+"very easy to use, coded according to the latest standards and SEO friendly."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.anarieldesign.com/themes/"
+msgstr ""
+
+#. Author of the theme
+msgid "Anariel Design"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.anarieldesign.com/"
+msgstr ""
